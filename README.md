@@ -1,0 +1,1 @@
+# gcloud-scripts-to-add-and-remove-snapshot-schedule-from-disks-in-bulk
